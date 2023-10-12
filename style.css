@@ -110,7 +110,6 @@ button {
 
 button {
     display: inline-block;
-    /* display: block; */
     border: none;
     border-radius: 200px;
     line-height: 1;
